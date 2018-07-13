@@ -1,0 +1,30 @@
+User Management Tool for Company
+
+Requirements:
+=========================================
+1) Employee Management 
+2)User Interface to create Employee
+3)Dashboard for Display
+4)Send regular Email Alerts
+5)New Employee Engagement
+======================================
+
+Features:-
+--------------------------
+
+Admin Dashboard,
+User Interface Dashboard,
+EMail Engine
+Employee and Manager Permissions and Hierarchy
+login and Logout Authentication
+
+Technical Specifications:-
+===============================
+Use Django Framework
+Use ORM Query
+Use Postgress or default Sqlite3 as database
+Use Django default User module and customize it
+use sessions
+use django rest framework
+create REST API's and Normal functions (Both) Give the seperate Url's 
+Use Profile Pic of employee storein database
